@@ -20,11 +20,16 @@ export const projectExperience = [
     icon: MdWorkspacesOutline,
     bg: "#F26440",
   },
-];
+];//
 
 export const WhatDoIHelp = [
-  "I will help you with finging a solution and solve your problem, We use process design to create digital products. Besides that also help their business.",
-  "We use process design to create digital products. Besides that also help their business",
+//   "I will help you with finging a solution and solve your problem, We use process design to create digital products. Besides that also help their business.",
+//   "We use process design to create digital products. Besides that also help their business",
+"I believe I am a fantastic team player and thrive working in a cooperative setting",
+
+ "I have had experience working in a web development team and I enjoy collaborating with other experts working on the same project."
+
+
 ];
 
 export const workExp = [
